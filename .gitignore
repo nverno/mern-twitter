@@ -25,11 +25,11 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+# /config/keys.js
+/config/keys_dev.js
 
 bundle.js*
 .DS_*
 npm-debug.log
 .env
-
-/config/keys.js
 .eslintcache*
